@@ -6,8 +6,8 @@
 
 int main(int argc, char **argv) {
 
-    printf("hello");
-    printf("hi");
+    printf("hello\n");
+    printf("pre-med minor\n");
 
     return 0;
 }
